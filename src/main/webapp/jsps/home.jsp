@@ -63,7 +63,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mylandmarklogo.png" alt="" width="150">
+		<img src="file:///Users/djkongit/Desktop/Screen%20Shot%202022-06-21%20at%208.15.45%20AM.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
                 Kongit Technology, 
