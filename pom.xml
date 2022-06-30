@@ -93,23 +93,24 @@
 		
 	</dependencies>
 	
+	
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Kongit Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.54.157:8081/repository/Paypal-release/</url>
+	      <url>http://172.31.26.234:8081/repository/fintech-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Kongit Technologies Snapshot Nexus Repository</name>
-	      <url>http://172.31.54.157:8081/repository/paypal-snapshot/</url>
+	      <name>Kongit Technologies Snapshot Nexus Repository </name>
+	      <url>http://172.31.26.234:8081/repository/fintech-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>Paypal-app</finalName>
+		<finalName>Moneybank-app</finalName>
 		
 		<plugins>
 			<plugin>
