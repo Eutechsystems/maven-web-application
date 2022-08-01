@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>revolutApp-prod</finalName>
+		<finalName>maven-web-app</finalName>
 		
 		<plugins>
 			<plugin>
