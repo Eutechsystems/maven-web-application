@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Kongit Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.26.57:8081/repository/fintech-Release/</url>
+	      <url>http://172.31.26.57:8081/repository/fintech-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Kongit Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.94.193.135:8081/repository/fintech-Snapshot/</url>
+	      <url>http://3.94.193.135:8081/repository/fintech-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
